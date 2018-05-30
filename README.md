@@ -39,17 +39,18 @@ excluding any document structural elements.
 
 ### Markup Features
 * <font color="red">Co</font><font color="blue">lor</font> (planned)
-* **Bold** (planned)
-* <u>Underline</u> (planned)
-* _Italics_ (planned)
-* `Monospace` (planned)
-* Links (planned)
+* **Bold**
+* <u>Underline</u>
+* _Italics_
+* `Code`
+* Links
 * Paragraphs (planned)
 * Ordered lists (planned)
 * Unordered lists (planned)
 
 ## Status
-**Not Yet Written**. It doesn't exist yet.
+**Early alpha**. The bare minimum necessary to get FAQBot to output some decent
+formatted text.
 
 ## Recommended Installation
 Just clone the repository somewhere (probably inside or alongside your main
